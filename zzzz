@@ -1,0 +1,12 @@
+cd /home/raspi4
+source omniverse/bin/activate
+cd $main 
+
+#rm ansalgolflink_imagedb.joblib
+#cp -f oneimage_ansalgolflink_imagedb.joblib ansalgolflink_imagedb.joblib
+#gvim -p rclone_loop.sh func_enable.py detection_known_green_unknwon_idle_red.py mail_schedule_send.py clear_content_reboot.py final_in_out.py mail_final_in_out.py
+
+#gvim -p ~/.bashrc ~/zzzz ~/readme rclone_loop.sh func_enable.py encoding_tool.py detection_known_green_unknwon_red_open_yellow.py mail_schedule_send.py mail_final_in_out.py clear_content_reboot.py final_in_out.py Himesh/telegram_to_drive.py 
+#sudo gvim /etc/systemd/system/rclone-loop.service
+export main=/home/raspi4/jay
+
